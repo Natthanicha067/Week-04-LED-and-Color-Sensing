@@ -1,8 +1,9 @@
-### ✍️ กิจกรรมวิเคราะห์ผลและการบ้านท้ายใบงาน (Data Science & Engineering Reflection)
+---
+ใบงานปฏิบัติการ สัปดาห์ที่ 4 การทดลองย่อยที่ 2
+---
+หัวข้อ: การศึกษากลศาสตร์ประจุแฝงและพฤติกรรมการตอบสนองของ ADC (ADC Settling Time & Transient State) 2. กิจกรรมวิเคราะห์ผลและการบ้านท้ายใบงาน (Data Science & Engineering Reflection) 4.1 การพล็อตกราฟพฤติกรรมทางกายภาพ (Transient Response Curve)
 
-1. **การพล็อตพฤติกรรมทางกายภาพ (Transient Response Curve):**
-    
-    ให้นักศึกษาก๊อปปี้ข้อมูลตัวเลขชุดคู่อันดับ `No, ADC Raw` จาก Serial Monitor ทั้งหมดนำไปวางในโปรแกรม **Microsoft Excel** หรือ **Google Sheets** จากนั้นทำการพล็อตกราฟเส้น (Line Chart) โดยให้แกน X เป็นลำดับแซมเปิ้ล (1-20) และแกน Y เป็นค่าดิบของ ADC และแนบรูปกราฟลงในเล่มรายงาน
+ตารางสรุปไฟล์ข้อมูลทั้งหมด:
 
 <img width="698" height="415" alt="ภาพถ่ายหน้าจอ 2569-08-03 เวลา 16 23 37" src="https://github.com/user-attachments/assets/68a30760-63a5-4584-99e6-5e61c6bc50be" />
 <img width="791" height="469" alt="ภาพถ่ายหน้าจอ 2569-08-03 เวลา 16 23 50" src="https://github.com/user-attachments/assets/a6eafa88-e7db-403e-a72c-5e330a11ebfc" />
